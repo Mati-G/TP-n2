@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Tomar mate",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Jugar al futbol",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Andar en bici",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Cocinar",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "sacar la basura",
+        "estado": "realizado"
+    },
+    {
+        "titulo": "Cocinar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "bailar",
+        "estado": "Pendiente"
+    }
+]
